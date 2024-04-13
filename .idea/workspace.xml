@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b7e5d5-c0f2-4a53-bcda-d281d64a0246" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces y Clases Abstractas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miguel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miguel/classes/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miguel/classes/PaymentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miguel/classes/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/miguel/interfaces/TransactionList.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0b7e5d5-c0f2-4a53-bcda-d281d64a0246" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
