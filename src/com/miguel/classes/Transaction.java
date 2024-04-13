@@ -10,8 +10,6 @@ public class Transaction {
     private double amount;
     private LocalDate date;
 
-    //DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
-    //String dateFormatted = date.format(dateFormatter);
 
 //Constructor Transaction
     public Transaction(String sellerAccountNumber, String buyerAccountNumber, double amount, LocalDate date) {
